@@ -1,1 +1,1 @@
-console.log("Hamza")
+console.log("Hamza javascript")
